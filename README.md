@@ -100,6 +100,6 @@ This project was developed as a personal exploration in my third year of high sc
 This project is open source and available under the MIT License.
 ## ✨ Acknowledgments
 
-Nintendo for the inspiration (Mario & Luigi characters are property of Nintendo)
-Fellow students who helped test the dual-control system
-High school CS department for supporting independent projects
+- Nintendo for the inspiration (Mario & Luigi characters are property of Nintendo)
+- Fellow students who helped test the dual-control system
+- High school CS department for supporting independent projects
